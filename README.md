@@ -30,6 +30,6 @@ cd meuslinks.github.io
 ## Deploy
 
 Publicado via **GitHub Pages** em:  
-`[https://danibsoares.github.io/meuslinks/](https://danibsoares.github.io/meuslinks.github.io/)`
+`https://danibsoares.github.io/meuslinks.github.io/`
 
 Para atualizar, basta fazer push na branch `main` — o GitHub Pages serve automaticamente.
